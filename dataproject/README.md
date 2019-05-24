@@ -4,8 +4,8 @@ Our data project seeks to explore the differences in the employment rate between
 
 The data used in our project can be found here: https://www.statistikbanken.dk/RAS201
 
-** Conclusion
-The main conclusion of the analysis is, that the delevopment of the employment shares follows the same pattern throughout all Regions of Denmark. All Regions were noticeably influenced by the Financial Crisis in 2008-2009 where the employment shares fell in all Regions. Yet as shown in the line charts Region Midtjylland in general has a higher level of employment whereas Region Nordjylland seems to have the most volatile development of the Regions.
+## Conclusion
+The main conclusion of the analysis is, that the development of the employment shares follows the same pattern throughout all Regions of Denmark. All Regions were noticeably influenced by the Financial Crisis in 2008-2009 where the employment shares fell in all Regions. Yet as shown in the line charts Region Midtjylland in general has a higher level of employment whereas Region Nordjylland seems to have the most volatile development of the Regions.
 
 To run our notebook the following the Statistics Denmark API package needs to be installed: 
 - pip install git+https://github.com/elben10/pydst
