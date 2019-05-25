@@ -7,4 +7,4 @@
 
 
 ## 3. Exchange Economy
-We seek to determine consumer behavior given exponentially and later equally distributed endowments. We plot budget shares for each agent, plot excess demand function, find Walras-equilibirum prices, plot distribution of utility for the Walras-equilibrum.
+We seek to determine consumer behavior given exponentially and later equally distributed endowments. We plot budget shares for each agent, plot excess demand functions for good 1 and 2, find Walras-equilibirum prices for good 1 and 2 and plot the distribution of utility for the Walras-equilibrum.
