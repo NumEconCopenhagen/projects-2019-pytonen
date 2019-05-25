@@ -1,0 +1,28 @@
+lms410
+Data feedback
+Athena 	- https://github.com/NumEconCopenhagen/projects-2019-athena/issues/1 
+SB	- https://github.com/NumEconCopenhagen/projects-2019-sb/issues/3
+
+Model feedback:
+Unity		- https://github.com/NumEconCopenhagen/projects-2019-unity/issues/6
+KingCobra	- https://github.com/NumEconCopenhagen/kingcobra/issues/9 
+
+
+wlp557
+Data feedback
+adu	- https://github.com/NumEconCopenhagen/projects-2019-adu/issues/2
+MJK	- https://github.com/NumEconCopenhagen/projects-2019-mjk/issues/2
+
+Model project
+Anaconda Bois	- https://github.com/NumEconCopenhagen/projects-2019-anaconda-bois/issues/7
+CR		- https://github.com/NumEconCopenhagen/projects-2019-cr/issues/8 
+
+
+kqf884
+Data feedback:
+Credible Threats	- https://github.com/NumEconCopenhagen/projects-2019-credible-threats/issues/7 
+hyggerbare		- https://github.com/NumEconCopenhagen/projects-2019-hyggerbare/issues/6
+
+Model feedback
+WP		- https://github.com/NumEconCopenhagen/projects-2019-wp/issues/8
+KingCobra	- https://github.com/NumEconCopenhagen/kingcobra/issues/12
