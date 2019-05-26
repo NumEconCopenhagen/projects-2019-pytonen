@@ -11,7 +11,9 @@ Danmarks Statiskik: https://www.statistikbanken.dk/RAS201
 
 
 ## Model project
-Our model project seeks to determine the optimal consumption for a consumer given the consumer's budget constraint and utility function. We find an optimal bundle for a given price and income relationship, and the bundle is then divided to two consumers by a social planner. 
+Our model project seeks to determine the optimal consumption for a consumer given the consumer's budget constraint and utility function. We find an optimal bundle for a given price and income relationship. This bundle is then divided to two consumers by a social planner according to assignment 5 in the Microeconomics II exam from february 19th 2019.
+
+Sources: http://web.econ.ku.dk/polit/studerende/eksamen/opgrv/filer/rv%20Mikro%20I%20december%202016%20med%20l%C3%B8sninger.pdf
 
 
 ## Exam project
