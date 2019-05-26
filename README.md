@@ -7,7 +7,7 @@ Our portfolio consists of our data project, our model project and our solutions 
 In our data analysis project, we conduct a graphical analysis to explore the differences in the employment shares between the five regions and the general level for Denmark. Furthermore we investigate the differences in employment between men and women. 
 
 **Sources:**
-Danmarks Statiskik: https://www.statistikbanken.dk/RAS201
+Statistics Denmark: https://www.statistikbanken.dk/RAS201
 
 
 ## Model project
