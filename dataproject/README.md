@@ -1,6 +1,6 @@
 # Dataproject
 
-Our data project seeks to explore the differences in the employment rate across gender and across the five regions in Denmark. We display the evolution of emplyment shares across regions by both a simple line chart and an interactive linechart, that allows for the reader to change which region to investigate. Also we differences between genders are displayed by a stacked bar chart and an interactive line chart across regions. The code is documented throughout to maintain oversight.
+Our data project seeks to explore the differences in the employment shares across gender and across the five regions of Denmark. We display the development of emplyment shares across regions by both a simple line chart and an interactive linechart that allows the reader to change which region to investigate. Also we differences between genders are displayed by a stacked bar chart and an interactive line chart across regions. The code is documented throughout to maintain oversight.
 
 The data used in our project can be found here: https://www.statistikbanken.dk/RAS201
 
