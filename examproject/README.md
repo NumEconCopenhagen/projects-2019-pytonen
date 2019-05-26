@@ -1,5 +1,7 @@
 # Examproject
 
+Running the exam project requires the scipy 1.3.0. Use 'pip uninstall scipy' in the terminal, and then 'pip install scipy==1.3.0'.
+
 ## 1. Human capital accumulation
 This assignment seeks to investigate a consumers choice between working or not, dependent on the level of human capital she receives from working. We investigate her behavior when she maximizes her value of life in two periods and conclude at which level of human capital she decides to work in both periods. This is visualized by line charts.
 
