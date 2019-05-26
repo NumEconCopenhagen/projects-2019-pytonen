@@ -20,4 +20,4 @@ http://web.econ.ku.dk/polit/studerende/eksamen/opgrv/filer/rv%20Mikro%20I%20dece
 ## Exam project
   1) Maximizing utility of a worker living in two periods where neither borrowing nor saving is possible.
   2) Solving an ASAD model where different types of positive demand shocks hit the economy.  
-  3) Finding Walras-equilibrium prices and amounts for N consumers' based on endowments and Cobb-Douglas preferences.
+  3) Finding Walras-equilibrium prices and amounts for N consumers based on endowments and Cobb-Douglas preferences.
